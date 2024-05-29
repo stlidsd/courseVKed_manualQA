@@ -1,2 +1,2 @@
 # courseVKed_manualQA
-a repository that contains all homework and additional homeworks with scores
+a repository that contains all homework from course VK Education "Manual testing"
